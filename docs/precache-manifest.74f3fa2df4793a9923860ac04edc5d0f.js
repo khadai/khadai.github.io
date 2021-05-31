@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efb7d4504fb188ad017e3e564067e353",
+    "revision": "f0a52cddf679f7c0927bb569a349e70a",
     "url": "/index.html"
   },
   {
-    "revision": "fd5fe2f8b5c346109602",
-    "url": "/static/js/2.a592fd5d.chunk.js"
+    "revision": "19119fb63abdb512f104",
+    "url": "/static/js/2.b77dee25.chunk.js"
   },
   {
     "revision": "116b96ba63e0688a5daf76f9223fbb8f",
-    "url": "/static/js/2.a592fd5d.chunk.js.LICENSE"
+    "url": "/static/js/2.b77dee25.chunk.js.LICENSE"
   },
   {
-    "revision": "e26d4325a02fdbf96df4",
-    "url": "/static/js/main.288864de.chunk.js"
+    "revision": "7675fc0f4ded1ad2c90a",
+    "url": "/static/js/main.7977bbc5.chunk.js"
   },
   {
     "revision": "b94785afcd180b5ea112",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f14e53d90a21fe876dabe59938d60d4f",
     "url": "/static/media/blockchain.f14e53d9.png"
+  },
+  {
+    "revision": "edf7e022cc70416e2734a9e035cf6987",
+    "url": "/static/media/chellit-artboard.edf7e022.png"
   },
   {
     "revision": "3e89a7671f1ba9a955395e0a518613b1",
